@@ -16,5 +16,5 @@ The "receveir.ino" initially sends it's public key to whoever is on the same fre
 once it finds someone it starts printing out the message that it receives on the 0.96 inch screen.
 
 
-###HOW DO I CONNECT THOSE ? 
+### HOW DO I CONNECT THOSE ? 
 I'm trying to install fritzing without paying when i get it i will upload the scheme XD
