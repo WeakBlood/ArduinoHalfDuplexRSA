@@ -1,6 +1,6 @@
 # Is this a school project? NAH as always, i was just bored.
 I ran those 2 scripts with these components: 
--Arduino UNO R3
+- Arduino UNO R3
   - BREADBOARD
   - 0.96 INCH MONITOR
   - NRF24L01
