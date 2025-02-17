@@ -60,7 +60,7 @@ void generateKeys() {
   long n = p * q;
   long phi = (p-1)*(q-1);
   long e = 17;
-  // parte matematica purtroppo non sicura perchè la potenza di calcolo di arduino è poca :(
+  // REALLY UNSAFE RSA KEY GENERATION.
   publicKey.exp = e;
   publicKey.mod = n;
   privateKey.exp = modInverse(e, phi);
