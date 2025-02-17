@@ -1,6 +1,6 @@
-#Is this a school project? NAH as always, i was just bored.
+# Is this a school project? NAH as always, i was just bored.
 I ran those 2 scripts with these components: 
-- Arduino UNO R3
+-Arduino UNO R3
   - BREADBOARD
   - 0.96 INCH MONITOR
   - NRF24L01
@@ -8,7 +8,7 @@ I ran those 2 scripts with these components:
   - NRF24L01
 
 
-###What these 2 codes do ? 
+### What these 2 codes do ? 
 The "transimitter.ino" is meant to be uploaded to the R4 because it is the one 
 which will only send messages AFTER performing a HANDSHAKE-LIKE protocol.
 
